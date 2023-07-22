@@ -1,0 +1,24 @@
+:global {
+  .month-product-container {
+    .date-text {
+      background-color: #ffffff;
+      width: 100vw;
+      max-width: 640px;
+      min-height: 35px;
+      text-align: center;
+      align-content: center;
+      line-height: 35px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    .table-view {
+      margin-left: 10px;
+      margin-right: 10px;
+      height: calc(100vh - 80px);
+      max-height: calc(100vh - 80px);
+      border-radius: 8px;
+      padding: 5px 0px 5px 0px;
+      font-size: 12px;
+    }
+  }
+}
